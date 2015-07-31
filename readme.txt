@@ -1,0 +1,1 @@
+This is my first hands-on, down-and-dirty Test-First Ruby project folder. I am using the fantastic free course at http://www.theodinproject.com to learn programming. Debugging is by far the most intimidating skill I've yet to fumble through, but I'm sure I'll be more than successful after hacking my way through testfirst.org's Learn Ruby section!
